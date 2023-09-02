@@ -36,8 +36,11 @@ Jupyter Notebook | Anaconda | Matplotlib 📊
 ### 👥 Connect with Me:
 
 📧 [Email](mailto:mohammedidris257@gmail.com)
+
 🌐 [GitHub](https://github.com/Syed-Mohammed-Idris)
+
 📱 [LinkedIn](https://www.linkedin.com/in/syed-mohammed-idris/)
+
 📝 [Portfolio Website](https://sites.google.com/view/syed-mohammed-idris/home)
 
 Let's embark on a data-driven journey together! Feel free to reach out for collaborations, advice, or just a friendly chat. 🚀 #DataScience #MachineLearning #Analytics #DataStorytelling
