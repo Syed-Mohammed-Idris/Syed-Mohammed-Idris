@@ -1,4 +1,4 @@
-# 👨‍💼 **Data Science Enthusiast** 📊 
+# 👨‍💼 **Data Science Enthusiast** 👨‍🔬
 
 ### ***Passionate about leveraging data to uncover insights and drive decision-making. Aspiring to become a top-notch Data Scientist, I bring a blend of analytical prowess and coding skills to the table.*** 🤖
 
